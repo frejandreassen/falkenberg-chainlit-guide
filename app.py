@@ -3,6 +3,7 @@ import chainlit as cl
 import json
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
+from datetime import datetime
 
 # Load environment variables
 load_dotenv()
@@ -74,6 +75,9 @@ async def start_chat():
     events_status = "active" if events_data else "unavailable"
     pages_status = "active" if pages_data else "unavailable"
     
+    # Get today's date
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    
     # Set up the message history with system message
     cl.user_session.set(
         "message_history",
@@ -88,6 +92,7 @@ For ANY question about Falkenberg, including events, activities, attractions, re
 Current data status:
 - Events data: {events_status}
 - Website data: {pages_status}
+- Today's date: {current_date}
 
 When asked any question about local services, places, or recommendations in Falkenberg, ALWAYS use the ask_gemini_about_pages tool first before responding. This includes restaurants, shops, attractions, beaches, or any other local information.
 

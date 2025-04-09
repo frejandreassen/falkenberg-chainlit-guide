@@ -550,3 +550,33 @@ Du kan ...
 [2025-04-09 13:33:50] GEMINI: Det finns många bra restauranger i Falkenbergs centrum. Här är några exempel:
 
 *   **Rådhustorget No...
+[2025-04-09 15:29:16] SYSTEM: Initialized tokenizer
+[2025-04-09 15:29:16] SYSTEM: Initialized GeminiTools
+[2025-04-09 15:29:17] SYSTEM: Refreshed events data. Total events: 169
+[2025-04-09 15:29:20] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 15:29:20] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 15:29:32] USER: Events query: vad händer i Falkenberg ikväll
+[2025-04-09 15:29:32] TOKENS: Event tokens - Original: 87499, Reduced: 23563, Saved: 63936 (73.1%)
+[2025-04-09 15:29:32] TOKENS: Event prompt tokens: 23707
+[2025-04-09 15:29:32] SYSTEM: Sending event request to Gemini
+[2025-04-09 15:29:38] SYSTEM: Gemini event response time: 5.92 seconds
+[2025-04-09 15:29:38] TOKENS: Event response tokens: 1064
+[2025-04-09 15:29:38] GEMINI: **Evenemang:**
+- **Bio – A Minecraft Movie**: Från Warner Bros. Pictures och Legendary Pictures och ...
+[2025-04-09 15:30:44] USER: Events query: andra evenemang eller aktiviteter i Falkenberg 2025-04-09
+[2025-04-09 15:30:44] TOKENS: Event tokens - Original: 87499, Reduced: 23563, Saved: 63936 (73.1%)
+[2025-04-09 15:30:44] TOKENS: Event prompt tokens: 23716
+[2025-04-09 15:30:44] SYSTEM: Sending event request to Gemini
+[2025-04-09 15:30:47] SYSTEM: Gemini event response time: 2.80 seconds
+[2025-04-09 15:30:47] TOKENS: Event response tokens: 454
+[2025-04-09 15:30:47] GEMINI: **Evenemang:**
+- **Stanna Upp-dag i Sörby**: Behöver du en paus? Känner du att vardagen går i ett? D...
+[2025-04-09 15:31:03] USER: Pages query: lokala restauranger i Falkenberg
+[2025-04-09 15:31:03] TOKENS: Page tokens - Original: 394847, Reduced: 65873, Saved: 328974 (83.3%)
+[2025-04-09 15:31:04] TOKENS: Pages prompt tokens: 65984
+[2025-04-09 15:31:04] SYSTEM: Sending pages request to Gemini
+[2025-04-09 15:31:11] SYSTEM: Gemini pages response time: 7.35 seconds
+[2025-04-09 15:31:11] TOKENS: Pages response tokens: 1388
+[2025-04-09 15:31:11] GEMINI: Falkenberg erbjuder ett brett utbud av restauranger. Här är några exempel:
+
+*   **Ackerbergs:** Erbj...

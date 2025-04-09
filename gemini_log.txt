@@ -1,0 +1,552 @@
+[2025-04-09 09:13:11] SYSTEM: Initialized tokenizer
+[2025-04-09 09:13:11] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:13:12] SYSTEM: Refreshed events data. Total events: 163
+[2025-04-09 09:13:15] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:13:15] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:13:31] USER: Pages query: mysiga caféer i Falkenberg
+[2025-04-09 09:13:32] TOKENS: Page tokens - Original: 394847, Reduced: 65898, Saved: 328949 (83.3%)
+[2025-04-09 09:13:32] TOKENS: Pages prompt tokens: 66009
+[2025-04-09 09:13:32] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:13:37] SYSTEM: Gemini pages response time: 4.99 seconds
+[2025-04-09 09:13:37] TOKENS: Pages response tokens: 1390
+[2025-04-09 09:13:37] GEMINI: Baserat på webbplatsens data, här är några mysiga caféer i Falkenberg:
+
+*   **Onuba Fika by Rocio**:...
+[2025-04-09 09:14:06] USER: Events query: musikevenemang i kyrkor i Falkenberg
+[2025-04-09 09:14:06] TOKENS: Event tokens - Original: 85110, Reduced: 22812, Saved: 62298 (73.2%)
+[2025-04-09 09:14:06] TOKENS: Event prompt tokens: 22959
+[2025-04-09 09:14:06] SYSTEM: Sending event request to Gemini
+[2025-04-09 09:14:08] SYSTEM: Gemini event response time: 1.89 seconds
+[2025-04-09 09:14:08] TOKENS: Event response tokens: 211
+[2025-04-09 09:14:08] GEMINI: **Evenemang:**
+- **Hjärtliga hälsningar – konstutställning i Vinbergs kyrka**: Välkommen att se en f...
+[2025-04-09 09:17:32] USER: Pages query: kallbada i Falkenberg
+[2025-04-09 09:17:32] TOKENS: Page tokens - Original: 394847, Reduced: 65898, Saved: 328949 (83.3%)
+[2025-04-09 09:17:32] TOKENS: Pages prompt tokens: 66009
+[2025-04-09 09:17:32] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:17:34] SYSTEM: Gemini pages response time: 1.68 seconds
+[2025-04-09 09:17:34] TOKENS: Pages response tokens: 101
+[2025-04-09 09:17:34] GEMINI: Du kan boka bastu på flera platser i Falkenberg, både vid hav och sjö. Detta kan vara ett bra komple...
+[2025-04-09 09:18:01] USER: Pages query: Klitterbadet i Falkenberg
+[2025-04-09 09:18:01] TOKENS: Page tokens - Original: 394847, Reduced: 65898, Saved: 328949 (83.3%)
+[2025-04-09 09:18:01] TOKENS: Pages prompt tokens: 66009
+[2025-04-09 09:18:01] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:18:03] SYSTEM: Gemini pages response time: 1.80 seconds
+[2025-04-09 09:18:03] TOKENS: Pages response tokens: 103
+[2025-04-09 09:18:03] GEMINI: Klitterbadet är en badanläggning i Falkenberg. Du kan simma i en 50-metersbassäng eller njuta av vär...
+[2025-04-09 09:19:05] SYSTEM: Initialized tokenizer
+[2025-04-09 09:19:05] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:19:07] SYSTEM: Refreshed events data. Total events: 163
+[2025-04-09 09:19:09] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:19:09] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:24:50] USER: Events query: theatre performances summer 2024
+[2025-04-09 09:24:50] TOKENS: Event tokens - Original: 85110, Reduced: 22812, Saved: 62298 (73.2%)
+[2025-04-09 09:24:50] TOKENS: Event prompt tokens: 22953
+[2025-04-09 09:24:50] SYSTEM: Sending event request to Gemini
+[2025-04-09 09:24:55] SYSTEM: Gemini event response time: 4.48 seconds
+[2025-04-09 09:24:55] TOKENS: Event response tokens: 573
+[2025-04-09 09:24:55] GEMINI: **Evenemang:**
+- **Robin Hood**: Sommarens stora äventyrsmusikal för hela familjen i Teatergläntan. ...
+[2025-04-09 09:27:04] SYSTEM: Initialized tokenizer
+[2025-04-09 09:27:04] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:27:05] SYSTEM: Refreshed events data. Total events: 163
+[2025-04-09 09:27:08] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:27:08] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:37:03] USER: Pages query: best pizza restaurants in Falkenberg
+[2025-04-09 09:37:03] TOKENS: Page tokens - Original: 394847, Reduced: 65898, Saved: 328949 (83.3%)
+[2025-04-09 09:37:03] TOKENS: Pages prompt tokens: 66008
+[2025-04-09 09:37:03] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:37:05] SYSTEM: Gemini pages response time: 1.71 seconds
+[2025-04-09 09:37:05] TOKENS: Pages response tokens: 42
+[2025-04-09 09:37:05] GEMINI: Tyvärr, baserat på den tillhandahållna webbplatsdatan, finns det ingen specifik information om de bä...
+[2025-04-09 09:37:19] USER: Pages query: pizza restaurants or places to eat pizza in Falkenberg
+[2025-04-09 09:37:19] TOKENS: Page tokens - Original: 394847, Reduced: 65898, Saved: 328949 (83.3%)
+[2025-04-09 09:37:19] TOKENS: Pages prompt tokens: 66012
+[2025-04-09 09:37:19] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:37:21] SYSTEM: Gemini pages response time: 1.93 seconds
+[2025-04-09 09:37:21] TOKENS: Pages response tokens: 215
+[2025-04-09 09:37:21] GEMINI: Based on the provided web page data, there is one restaurant that serves pizza:
+
+*   **Prostens Pizz...
+[2025-04-09 09:45:35] SYSTEM: Initialized tokenizer
+[2025-04-09 09:45:35] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:45:36] SYSTEM: Refreshed events data. Total events: 163
+[2025-04-09 09:45:39] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:45:39] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:49:56] SYSTEM: Initialized tokenizer
+[2025-04-09 09:49:56] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:49:58] SYSTEM: Refreshed events data. Total events: 165
+[2025-04-09 09:50:01] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:50:01] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:50:33] SYSTEM: Initialized tokenizer
+[2025-04-09 09:50:33] SYSTEM: Initialized GeminiTools
+[2025-04-09 09:50:35] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 09:50:38] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 09:50:38] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 09:56:25] USER: Pages query: theatres in Falkenberg
+[2025-04-09 09:56:25] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 09:56:25] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 09:56:25] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:56:27] SYSTEM: Gemini pages response time: 1.65 seconds
+[2025-04-09 09:56:27] TOKENS: Pages response tokens: 35
+[2025-04-09 09:56:27] GEMINI: Tyvärr, baserat på den tillhandahållna datan från falkenberg.se, finns det ingen information om teat...
+[2025-04-09 09:56:27] USER: Pages query: pizza restaurants in Falkenberg
+[2025-04-09 09:56:27] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 09:56:27] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 09:56:27] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:56:29] SYSTEM: Gemini pages response time: 1.76 seconds
+[2025-04-09 09:56:29] TOKENS: Pages response tokens: 141
+[2025-04-09 09:56:29] GEMINI: Tyvärr, jag kan inte ge dig en lista över pizzarestauranger i Falkenberg baserat på den tillhandahål...
+[2025-04-09 09:57:01] USER: Pages query: pizza restaurants in Falkenberg
+[2025-04-09 09:57:01] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 09:57:01] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 09:57:01] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:57:03] SYSTEM: Gemini pages response time: 1.66 seconds
+[2025-04-09 09:57:03] TOKENS: Pages response tokens: 84
+[2025-04-09 09:57:03] GEMINI: Tyvärr, baserat på den tillhandahållna webbplatsdatan, finns det ingen specifik information om pizza...
+[2025-04-09 09:57:16] USER: Pages query: pizza restaurants in Falkenberg
+[2025-04-09 09:57:16] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 09:57:16] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 09:57:16] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:57:18] SYSTEM: Gemini pages response time: 1.79 seconds
+[2025-04-09 09:57:18] TOKENS: Pages response tokens: 162
+[2025-04-09 09:57:18] GEMINI: Tyvärr, jag kan inte ge dig en specifik lista över pizzarestauranger i Falkenberg baserat på den til...
+[2025-04-09 09:59:03] USER: Pages query: teatrar i Falkenberg
+[2025-04-09 09:59:03] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 09:59:03] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 09:59:03] SYSTEM: Sending pages request to Gemini
+[2025-04-09 09:59:05] SYSTEM: Gemini pages response time: 1.63 seconds
+[2025-04-09 09:59:05] TOKENS: Pages response tokens: 24
+[2025-04-09 09:59:05] GEMINI: Baserat på webbplatsens data finns det ingen specifik information om teatrar i Falkenberg.
+
+[2025-04-09 09:59:50] USER: Events query: theatre events in Falkenberg
+[2025-04-09 09:59:50] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 09:59:50] TOKENS: Event prompt tokens: 23326
+[2025-04-09 09:59:50] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:00:00] SYSTEM: Gemini event response time: 9.91 seconds
+[2025-04-09 10:00:00] TOKENS: Event response tokens: 1660
+[2025-04-09 10:00:00] GEMINI: **Evenemang:**
+- **Kackel i grönsakslandet PETTSON & FINDUS**: BarnteaterCATs nya föreställning med ...
+[2025-04-09 10:00:56] SYSTEM: Initialized tokenizer
+[2025-04-09 10:00:56] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:00:58] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:01:01] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:01:01] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:01:12] USER: Pages query: pizza restaurants in Falkenberg
+[2025-04-09 10:01:12] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:01:12] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 10:01:12] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:01:14] SYSTEM: Gemini pages response time: 1.77 seconds
+[2025-04-09 10:01:14] TOKENS: Pages response tokens: 78
+[2025-04-09 10:01:14] GEMINI: Tyvärr, baserat på den tillhandahållna webbplatsdatan, finns det ingen specifik information om pizza...
+[2025-04-09 10:02:45] SYSTEM: Initialized tokenizer
+[2025-04-09 10:02:45] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:02:47] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:02:49] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:02:49] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:03:16] SYSTEM: Initialized tokenizer
+[2025-04-09 10:03:16] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:03:17] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:03:20] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:03:20] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:03:56] SYSTEM: Initialized tokenizer
+[2025-04-09 10:03:56] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:03:57] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:04:00] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:04:00] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:05:41] SYSTEM: Initialized tokenizer
+[2025-04-09 10:05:41] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:05:42] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:05:45] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:05:45] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:05:59] USER: Pages query: pizza i Falkenberg
+[2025-04-09 10:06:00] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:06:00] TOKENS: Pages prompt tokens: 65993
+[2025-04-09 10:06:00] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:06:02] SYSTEM: Gemini pages response time: 2.53 seconds
+[2025-04-09 10:06:02] TOKENS: Pages response tokens: 352
+[2025-04-09 10:06:02] GEMINI: Ja, det finns flera pizzerior i Falkenberg. Webbplatsen har en sida dedikerad till att lista pizzeri...
+[2025-04-09 10:06:15] USER: Events query: teater i Falkenberg
+[2025-04-09 10:06:15] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:06:15] TOKENS: Event prompt tokens: 23326
+[2025-04-09 10:06:15] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:06:30] SYSTEM: Gemini event response time: 14.16 seconds
+[2025-04-09 10:06:30] TOKENS: Event response tokens: 2891
+[2025-04-09 10:06:30] GEMINI: **Evenemang:**
+- **Kackel i grönsakslandet PETTSON & FINDUS**: BarnteaterCATs nya föreställning med ...
+[2025-04-09 10:07:11] USER: Events query: Robin Hood 3 augusti 2025 i Falkenberg
+[2025-04-09 10:07:11] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:07:11] TOKENS: Event prompt tokens: 23333
+[2025-04-09 10:07:11] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:07:12] SYSTEM: Gemini event response time: 1.35 seconds
+[2025-04-09 10:07:12] TOKENS: Event response tokens: 126
+[2025-04-09 10:07:12] GEMINI: **Evenemang:**
+- **Robin Hood**: Sommarens stora äventyrsmusikal för hela familjen i Teatergläntan ä...
+[2025-04-09 10:07:21] USER: Events query: Robin Hood speltid 3 augusti 2025 i Falkenberg
+[2025-04-09 10:07:21] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:07:21] TOKENS: Event prompt tokens: 23336
+[2025-04-09 10:07:21] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:07:22] SYSTEM: Gemini event response time: 1.01 seconds
+[2025-04-09 10:07:22] TOKENS: Event response tokens: 71
+[2025-04-09 10:07:22] GEMINI: **Evenemang:**
+- **Robin Hood**: Sommarens stora äventyrsmusikal för hela familjen i Teatergläntan. ...
+[2025-04-09 10:08:22] SYSTEM: Initialized tokenizer
+[2025-04-09 10:08:22] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:08:23] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:08:26] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:08:26] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:09:59] SYSTEM: Initialized tokenizer
+[2025-04-09 10:09:59] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:10:01] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:10:05] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:10:05] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:10:12] USER: Pages query: Jöback
+[2025-04-09 10:10:12] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:10:12] TOKENS: Pages prompt tokens: 65992
+[2025-04-09 10:10:12] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:10:14] SYSTEM: Gemini pages response time: 1.60 seconds
+[2025-04-09 10:10:14] TOKENS: Pages response tokens: 25
+[2025-04-09 10:10:14] GEMINI: Tyvärr hittades ingen information om "Jöback" på webbplatsen falkenberg.se.
+[2025-04-09 10:10:26] USER: Events query: Jöback musikföreställning
+[2025-04-09 10:10:26] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:10:26] TOKENS: Event prompt tokens: 23331
+[2025-04-09 10:10:26] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:10:28] SYSTEM: Gemini event response time: 1.24 seconds
+[2025-04-09 10:10:28] TOKENS: Event response tokens: 80
+[2025-04-09 10:10:28] GEMINI: **Evenemang:**
+- **En Sommarkväll med Jöback**: En Sommarkväll med Jöback – Intim sommarkonsert i Fa...
+[2025-04-09 10:12:42] SYSTEM: Initialized tokenizer
+[2025-04-09 10:12:42] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:12:43] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:12:46] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:12:46] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:12:58] USER: Events query: teater
+[2025-04-09 10:12:58] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:12:58] TOKENS: Event prompt tokens: 23323
+[2025-04-09 10:12:58] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:13:16] SYSTEM: Gemini event response time: 18.02 seconds
+[2025-04-09 10:13:16] TOKENS: Event response tokens: 3855
+[2025-04-09 10:13:16] GEMINI: **Evenemang:**
+- **Kackel i grönsakslandet PETTSON & FINDUS**: KACKEL I GRÖNSAKSLANDET är Barnteater...
+[2025-04-09 10:13:16] USER: Pages query: pizza
+[2025-04-09 10:13:16] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:13:16] TOKENS: Pages prompt tokens: 65990
+[2025-04-09 10:13:16] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:13:19] SYSTEM: Gemini pages response time: 2.75 seconds
+[2025-04-09 10:13:19] TOKENS: Pages response tokens: 299
+[2025-04-09 10:13:19] GEMINI: Falkenberg har ett stort utbud av pizzerior, och du kan hitta dem listade på webbplatsen. Det finns ...
+[2025-04-09 10:14:30] USER: Events query: teater i Falkenberg höst 2025
+[2025-04-09 10:14:30] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:14:30] TOKENS: Event prompt tokens: 23331
+[2025-04-09 10:14:30] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:14:36] SYSTEM: Gemini event response time: 6.44 seconds
+[2025-04-09 10:14:36] TOKENS: Event response tokens: 1288
+[2025-04-09 10:14:36] GEMINI: **Evenemang:**
+- **Kackel i grönsakslandet PETTSON & FINDUS**: KACKEL I GRÖNSAKSLANDET är Barnteater...
+[2025-04-09 10:16:14] USER: Events query: när spelar Falkenbergs FF nästa hemmamatch?
+[2025-04-09 10:16:14] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:16:14] TOKENS: Event prompt tokens: 23335
+[2025-04-09 10:16:14] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:16:15] SYSTEM: Gemini event response time: 1.12 seconds
+[2025-04-09 10:16:15] TOKENS: Event response tokens: 18
+[2025-04-09 10:16:15] GEMINI: Jag hittade inga evenemang som matchade din sökning.
+[2025-04-09 10:17:26] USER: Pages query: surfing spots in Falkenberg
+[2025-04-09 10:17:27] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:17:27] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 10:17:27] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:17:28] SYSTEM: Gemini pages response time: 1.61 seconds
+[2025-04-09 10:17:28] TOKENS: Pages response tokens: 65
+[2025-04-09 10:17:28] GEMINI: Falkenberg erbjuder bra förutsättningar för surfing, både vind- och kitesurfing, tack vare sina lång...
+[2025-04-09 10:24:05] SYSTEM: Initialized tokenizer
+[2025-04-09 10:24:05] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:24:06] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:24:09] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:24:09] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:24:25] USER: Events query: teater eller komedi i Falkenberg hösten 2023
+[2025-04-09 10:24:25] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:24:25] TOKENS: Event prompt tokens: 23334
+[2025-04-09 10:24:25] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:24:30] SYSTEM: Gemini event response time: 5.07 seconds
+[2025-04-09 10:24:30] TOKENS: Event response tokens: 809
+[2025-04-09 10:24:30] GEMINI: **Evenemang:**
+- **PEPTALK**: Dockhumorföreställning. Datum: 2025-09-19. Plats: Falkenbergs Stadstea...
+[2025-04-09 10:26:21] SYSTEM: Initialized tokenizer
+[2025-04-09 10:26:21] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:26:23] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:26:25] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:26:25] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:26:36] USER: Pages query: pizzerior i Falkenberg
+[2025-04-09 10:26:36] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:26:36] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 10:26:36] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:26:38] SYSTEM: Gemini pages response time: 1.82 seconds
+[2025-04-09 10:26:38] TOKENS: Pages response tokens: 107
+[2025-04-09 10:26:38] GEMINI: Ja, Falkenberg har ett stort utbud av pizzerior. På webbplatsen falkenberg.se finns en sida dedikera...
+[2025-04-09 10:28:11] SYSTEM: Initialized tokenizer
+[2025-04-09 10:28:11] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:28:12] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:28:15] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:28:15] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:28:40] USER: Pages query: Pizza-Bäckereien in Falkenberg
+[2025-04-09 10:28:41] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:28:41] TOKENS: Pages prompt tokens: 65998
+[2025-04-09 10:28:41] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:28:43] SYSTEM: Gemini pages response time: 2.65 seconds
+[2025-04-09 10:28:43] TOKENS: Pages response tokens: 350
+[2025-04-09 10:28:43] GEMINI: Ja, in Falkenberg gibt es mehrere Pizza-Bäckereien.
+
+Eine Liste mit Pizzerien in Falkenberg finden S...
+[2025-04-09 10:30:48] SYSTEM: Initialized tokenizer
+[2025-04-09 10:30:48] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:30:49] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:30:52] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:30:52] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:31:06] USER: Pages query: kaféer eller kaffeställen i Falkenberg
+[2025-04-09 10:31:06] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:31:06] TOKENS: Pages prompt tokens: 66002
+[2025-04-09 10:31:06] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:31:12] SYSTEM: Gemini pages response time: 5.91 seconds
+[2025-04-09 10:31:12] TOKENS: Pages response tokens: 1570
+[2025-04-09 10:31:12] GEMINI: Baserat på webbsidesdata från falkenberg.se finns det flera kaféer och kaffeställen i Falkenberg. Hä...
+[2025-04-09 10:31:30] USER: Events query: musikupplevelser i Falkenberg sommaren 2024
+[2025-04-09 10:31:30] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:31:30] TOKENS: Event prompt tokens: 23335
+[2025-04-09 10:31:30] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:31:39] SYSTEM: Gemini event response time: 8.95 seconds
+[2025-04-09 10:31:39] TOKENS: Event response tokens: 1741
+[2025-04-09 10:31:39] GEMINI: **Evenemang:**
+- **Björn Rosenström**: Traditionen Björn Rosenström & Det Jävla Bandet på underbart ...
+[2025-04-09 10:33:14] SYSTEM: Initialized tokenizer
+[2025-04-09 10:33:14] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:33:15] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:33:18] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:33:18] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:33:26] USER: Pages query: bagerier i Falkenberg
+[2025-04-09 10:33:26] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:33:26] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 10:33:26] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:33:30] SYSTEM: Gemini pages response time: 3.89 seconds
+[2025-04-09 10:33:30] TOKENS: Pages response tokens: 805
+[2025-04-09 10:33:30] GEMINI: Baserat på informationen från falkenberg.se finns det flera bagerier och caféer i Falkenberg som erb...
+[2025-04-09 10:36:16] SYSTEM: Initialized tokenizer
+[2025-04-09 10:36:16] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:36:18] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:36:20] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:36:20] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:36:49] USER: Pages query: bra restauranger i Falkenberg för middag med vin
+[2025-04-09 10:36:50] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:36:50] TOKENS: Pages prompt tokens: 66000
+[2025-04-09 10:36:50] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:36:53] SYSTEM: Gemini pages response time: 3.65 seconds
+[2025-04-09 10:36:53] TOKENS: Pages response tokens: 560
+[2025-04-09 10:36:53] GEMINI: Baserat på informationen från falkenberg.se, finns det flera bra restauranger i Falkenberg som passa...
+[2025-04-09 10:37:45] SYSTEM: Initialized tokenizer
+[2025-04-09 10:37:45] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:37:46] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:37:48] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:37:48] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:37:57] USER: Pages query: bra pizzerior i Falkenberg
+[2025-04-09 10:37:57] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:37:57] TOKENS: Pages prompt tokens: 65996
+[2025-04-09 10:37:57] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:38:00] SYSTEM: Gemini pages response time: 2.64 seconds
+[2025-04-09 10:38:00] TOKENS: Pages response tokens: 311
+[2025-04-09 10:38:00] GEMINI: Här är några pizzerior i Falkenberg som nämns på webbplatsen falkenberg.se:
+
+*   **Lilla Napoli:** P...
+[2025-04-09 10:38:11] USER: Pages query: bagerier i Falkenberg
+[2025-04-09 10:38:11] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:38:11] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 10:38:11] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:38:15] SYSTEM: Gemini pages response time: 4.38 seconds
+[2025-04-09 10:38:15] TOKENS: Pages response tokens: 705
+[2025-04-09 10:38:15] GEMINI: Falkenberg har flera bagerier och konditorier att välja mellan. Här är några exempel:
+
+*   **Gööks B...
+[2025-04-09 10:40:00] SYSTEM: Initialized tokenizer
+[2025-04-09 10:40:00] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:40:01] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:40:05] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:40:05] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:40:18] USER: Events query: musikevenemang i sommar Falkenberg
+[2025-04-09 10:40:18] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:40:18] TOKENS: Event prompt tokens: 23331
+[2025-04-09 10:40:18] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:40:27] SYSTEM: Gemini event response time: 9.38 seconds
+[2025-04-09 10:40:27] TOKENS: Event response tokens: 1800
+[2025-04-09 10:40:27] GEMINI: **Evenemang:**
+- **Björn Rosenström**: Traditionen Björn Rosenström & Det Jävla Bandet på underbart ...
+[2025-04-09 10:40:49] SYSTEM: Initialized tokenizer
+[2025-04-09 10:40:49] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:40:50] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:40:52] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:40:52] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:41:02] USER: Events query: musikevenemang i sommar i Falkenberg
+[2025-04-09 10:41:02] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:41:02] TOKENS: Event prompt tokens: 23332
+[2025-04-09 10:41:02] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:41:11] SYSTEM: Gemini event response time: 9.39 seconds
+[2025-04-09 10:41:11] TOKENS: Event response tokens: 1799
+[2025-04-09 10:41:11] GEMINI: **Evenemang:**
+- **Björn Rosenström**: Traditionen Björn Rosenström & Det Jävla Bandet på underbart ...
+[2025-04-09 10:41:20] SYSTEM: Initialized tokenizer
+[2025-04-09 10:41:20] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:41:22] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:41:24] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:41:24] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:41:34] USER: Events query: sommarteater i Falkenberg
+[2025-04-09 10:41:34] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 10:41:34] TOKENS: Event prompt tokens: 23328
+[2025-04-09 10:41:34] SYSTEM: Sending event request to Gemini
+[2025-04-09 10:41:38] SYSTEM: Gemini event response time: 3.79 seconds
+[2025-04-09 10:41:38] TOKENS: Event response tokens: 571
+[2025-04-09 10:41:38] GEMINI: **Evenemang:**
+- **Robin Hood**: Sommarens stora äventyrsmusikal för hela familjen i Teatergläntan. ...
+[2025-04-09 10:43:17] SYSTEM: Initialized tokenizer
+[2025-04-09 10:43:17] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:43:18] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:43:21] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:43:21] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:43:31] USER: Pages query: pizzerior i Falkenberg
+[2025-04-09 10:43:31] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:43:31] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 10:43:31] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:43:33] SYSTEM: Gemini pages response time: 1.80 seconds
+[2025-04-09 10:43:33] TOKENS: Pages response tokens: 67
+[2025-04-09 10:43:33] GEMINI: Falkenberg har ett stort utbud av pizzerior. På webbplatsen falkenberg.se finns en sida dedikerad ti...
+[2025-04-09 10:44:15] SYSTEM: Initialized tokenizer
+[2025-04-09 10:44:15] SYSTEM: Initialized GeminiTools
+[2025-04-09 10:44:16] SYSTEM: Refreshed events data. Total events: 166
+[2025-04-09 10:44:18] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 10:44:18] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 10:44:28] USER: Pages query: pizzerior i Falkenberg
+[2025-04-09 10:44:29] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:44:29] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 10:44:29] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:44:31] SYSTEM: Gemini pages response time: 1.94 seconds
+[2025-04-09 10:44:31] TOKENS: Pages response tokens: 67
+[2025-04-09 10:44:31] GEMINI: Falkenberg har ett stort utbud av pizzerior. På webbplatsen finns en sida dedikerad till att lista p...
+[2025-04-09 10:44:41] USER: Pages query: Lista pizzerior i Falkenberg
+[2025-04-09 10:44:41] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:44:41] TOKENS: Pages prompt tokens: 65996
+[2025-04-09 10:44:41] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:44:43] SYSTEM: Gemini pages response time: 1.36 seconds
+[2025-04-09 10:44:43] TOKENS: Pages response tokens: 68
+[2025-04-09 10:44:43] GEMINI: Här är en lista över pizzerior i Falkenberg, baserat på informationen från falkenberg.se:
+
+*   För e...
+[2025-04-09 10:44:58] USER: Pages query: Innehåll på sidan för pizzerior i Falkenberg
+[2025-04-09 10:44:59] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:44:59] TOKENS: Pages prompt tokens: 66003
+[2025-04-09 10:44:59] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:45:00] SYSTEM: Gemini pages response time: 1.44 seconds
+[2025-04-09 10:45:00] TOKENS: Pages response tokens: 88
+[2025-04-09 10:45:00] GEMINI: Sidan "/mat-dryck/hitta-en-pizzeria/" på falkenberg.se handlar om pizzerior i Falkenberg. Sidan besk...
+[2025-04-09 10:45:12] USER: Pages query: Fullt innehåll och lista på pizzerior från sidan om pizzerior i Falkenberg
+[2025-04-09 10:45:12] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:45:12] TOKENS: Pages prompt tokens: 66011
+[2025-04-09 10:45:12] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:45:14] SYSTEM: Gemini pages response time: 1.66 seconds
+[2025-04-09 10:45:14] TOKENS: Pages response tokens: 119
+[2025-04-09 10:45:14] GEMINI: Sidan "Hitta en pizzeria" (/mat-dryck/hitta-en-pizzeria/) innehåller följande information:
+
+Precis s...
+[2025-04-09 10:45:40] USER: Pages query: Lista på alla pizzerior i Falkenberg från falkenberg.se mat-dryck
+[2025-04-09 10:45:40] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:45:40] TOKENS: Pages prompt tokens: 66007
+[2025-04-09 10:45:40] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:45:42] SYSTEM: Gemini pages response time: 1.79 seconds
+[2025-04-09 10:45:42] TOKENS: Pages response tokens: 210
+[2025-04-09 10:45:42] GEMINI: Här är en lista över pizzerior i Falkenberg, baserat på informationen från falkenberg.se:
+
+*   Det f...
+[2025-04-09 10:46:34] USER: Pages query: utflyktsmål i naturen Falkenberg
+[2025-04-09 10:46:34] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:46:34] TOKENS: Pages prompt tokens: 66000
+[2025-04-09 10:46:34] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:46:38] SYSTEM: Gemini pages response time: 4.15 seconds
+[2025-04-09 10:46:38] TOKENS: Pages response tokens: 947
+[2025-04-09 10:46:38] GEMINI: Falkenberg erbjuder en mängd utflyktsmål i naturen, både längs kusten och i inlandet. Här är några e...
+[2025-04-09 10:47:17] USER: Pages query: bästa pizzerior Falkenberg
+[2025-04-09 10:47:17] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:47:17] TOKENS: Pages prompt tokens: 65996
+[2025-04-09 10:47:17] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:47:20] SYSTEM: Gemini pages response time: 2.61 seconds
+[2025-04-09 10:47:20] TOKENS: Pages response tokens: 458
+[2025-04-09 10:47:20] GEMINI: Det finns flera pizzerior i Falkenberg. Webbplatsen falkenberg.se har en sida dedikerad till att lis...
+[2025-04-09 10:47:40] USER: Pages query: winter swimming spots Falkenberg
+[2025-04-09 10:47:40] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 10:47:40] TOKENS: Pages prompt tokens: 65994
+[2025-04-09 10:47:40] SYSTEM: Sending pages request to Gemini
+[2025-04-09 10:47:42] SYSTEM: Gemini pages response time: 1.92 seconds
+[2025-04-09 10:47:42] TOKENS: Pages response tokens: 281
+[2025-04-09 10:47:42] GEMINI: Ja, det finns möjlighet till vinterbad i Falkenberg.
+
+*   **Boka en bastu i Falkenberg:** På flera p...
+[2025-04-09 11:09:28] USER: Pages query: Falkenbergsrevyn
+[2025-04-09 11:09:29] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 11:09:29] TOKENS: Pages prompt tokens: 65995
+[2025-04-09 11:09:29] SYSTEM: Sending pages request to Gemini
+[2025-04-09 11:09:30] SYSTEM: Gemini pages response time: 1.30 seconds
+[2025-04-09 11:09:30] TOKENS: Pages response tokens: 25
+[2025-04-09 11:09:30] GEMINI: Jag hittar ingen information om Falkenbergsrevyn på webbplatsen falkenberg.se.
+[2025-04-09 11:09:40] USER: Pages query: Falkenbergsrevyn information och länk
+[2025-04-09 11:09:41] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 11:09:41] TOKENS: Pages prompt tokens: 66000
+[2025-04-09 11:09:41] SYSTEM: Sending pages request to Gemini
+[2025-04-09 11:09:42] SYSTEM: Gemini pages response time: 1.41 seconds
+[2025-04-09 11:09:42] TOKENS: Pages response tokens: 44
+[2025-04-09 11:09:42] GEMINI: Jag hittar ingen information om Falkenbergsrevyn på webbplatsen falkenberg.se. Jag kan därför inte g...
+[2025-04-09 11:10:19] USER: Events query: Falkenbergsrevyn
+[2025-04-09 11:10:19] TOKENS: Event tokens - Original: 86131, Reduced: 23186, Saved: 62945 (73.1%)
+[2025-04-09 11:10:19] TOKENS: Event prompt tokens: 23327
+[2025-04-09 11:10:19] SYSTEM: Sending event request to Gemini
+[2025-04-09 11:10:21] SYSTEM: Gemini event response time: 1.32 seconds
+[2025-04-09 11:10:21] TOKENS: Event response tokens: 118
+[2025-04-09 11:10:21] GEMINI: **Evenemang:**
+- **Skruvat – Falkenbergsrevyn 2025**: I nya revyn skruvas det rejält med vår korkade...
+[2025-04-09 13:26:35] SYSTEM: Initialized tokenizer
+[2025-04-09 13:26:35] SYSTEM: Initialized GeminiTools
+[2025-04-09 13:26:36] SYSTEM: Refreshed events data. Total events: 168
+[2025-04-09 13:26:39] SYSTEM: Refreshed pages data. Total pages: 630
+[2025-04-09 13:26:39] SYSTEM: Scheduled refresh every 3 hours
+[2025-04-09 13:27:45] USER: Pages query: badplatser nära Ullared
+[2025-04-09 13:27:46] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 13:27:46] TOKENS: Pages prompt tokens: 65997
+[2025-04-09 13:27:46] SYSTEM: Sending pages request to Gemini
+[2025-04-09 13:27:47] SYSTEM: Gemini pages response time: 1.83 seconds
+[2025-04-09 13:27:47] TOKENS: Pages response tokens: 134
+[2025-04-09 13:27:47] GEMINI: Jag hittar ingen information om specifika badplatser nära Ullared på Falkenbergs kommuns webbplats. ...
+[2025-04-09 13:29:17] USER: Pages query: buss från Falkenberg till Ullared
+[2025-04-09 13:29:18] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 13:29:18] TOKENS: Pages prompt tokens: 65998
+[2025-04-09 13:29:18] SYSTEM: Sending pages request to Gemini
+[2025-04-09 13:29:20] SYSTEM: Gemini pages response time: 1.85 seconds
+[2025-04-09 13:29:20] TOKENS: Pages response tokens: 172
+[2025-04-09 13:29:20] GEMINI: Jag hittar ingen information på falkenberg.se om direktbussar från Falkenberg till Ullared.
+
+Du kan ...
+[2025-04-09 13:30:01] USER: Events query: evenemang i Falkenberg ikväll
+[2025-04-09 13:30:01] TOKENS: Event tokens - Original: 87047, Reduced: 23442, Saved: 63605 (73.1%)
+[2025-04-09 13:30:01] TOKENS: Event prompt tokens: 23586
+[2025-04-09 13:30:01] SYSTEM: Sending event request to Gemini
+[2025-04-09 13:30:04] SYSTEM: Gemini event response time: 2.35 seconds
+[2025-04-09 13:30:04] TOKENS: Event response tokens: 382
+[2025-04-09 13:30:04] GEMINI: **Evenemang:**
+- **Konstutställning – Fält och Barriär**: Välkommen till konstutställning på Kuben i...
+[2025-04-09 13:31:44] USER: Pages query: aktiviteter för barnfamiljer i Falkenberg
+[2025-04-09 13:31:44] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 13:31:44] TOKENS: Pages prompt tokens: 66000
+[2025-04-09 13:31:44] SYSTEM: Sending pages request to Gemini
+[2025-04-09 13:31:49] SYSTEM: Gemini pages response time: 4.79 seconds
+[2025-04-09 13:31:49] TOKENS: Pages response tokens: 926
+[2025-04-09 13:31:49] GEMINI: Falkenberg erbjuder en mängd aktiviteter för barnfamiljer, både inomhus och utomhus. Här är några ex...
+[2025-04-09 13:33:47] USER: Pages query: bra restauranger i Falkenbergs centrum
+[2025-04-09 13:33:47] TOKENS: Page tokens - Original: 394834, Reduced: 65885, Saved: 328949 (83.3%)
+[2025-04-09 13:33:47] TOKENS: Pages prompt tokens: 65999
+[2025-04-09 13:33:47] SYSTEM: Sending pages request to Gemini
+[2025-04-09 13:33:50] SYSTEM: Gemini pages response time: 3.26 seconds
+[2025-04-09 13:33:50] TOKENS: Pages response tokens: 402
+[2025-04-09 13:33:50] GEMINI: Det finns många bra restauranger i Falkenbergs centrum. Här är några exempel:
+
+*   **Rådhustorget No...

@@ -8,7 +8,7 @@ services:
     environment:
       - OPENAI_API_KEY=${OPENAI_API_KEY}  # Pass your OpenAI API key
       # Add any Gemini API keys if needed
-      # - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
       # If using authentication
       # - CHAINLIT_AUTH_SECRET=your_secret_here
       # - CHAINLIT_URL=https://your-domain.com

@@ -1,0 +1,214 @@
+{
+    "common": {
+        "actions": {
+            "cancel": "Avbryt",
+            "confirm": "Bekräfta",
+            "continue": "Fortsätt",
+            "goBack": "Gå tillbaka",
+            "reset": "Återställ",
+            "submit": "Skicka in"
+        },
+        "status": {
+            "loading": "Laddar...",
+            "error": {
+                "default": "Ett fel inträffade",
+                "serverConnection": "Kunde inte nå servern"
+            }
+        }
+    },
+    "auth": {
+        "login": {
+            "title": "Logga in för att komma åt appen",
+            "form": {
+                "email": {
+                    "label": "E-postadress",
+                    "required": "e-post är ett obligatoriskt fält"
+                },
+                "password": {
+                    "label": "Lösenord",
+                    "required": "lösenord är ett obligatoriskt fält"
+                },
+                "actions": {
+                    "signin": "Logga in"
+                },
+                "alternativeText": {
+                    "or": "ELLER"
+                }
+            },
+            "errors": {
+                "default": "Kan inte logga in",
+                "signin": "Försök logga in med ett annat konto",
+                "oauthSignin": "Försök logga in med ett annat konto",
+                "redirectUriMismatch": "Omdirigeringsadressen matchar inte oauth-appens konfiguration",
+                "oauthCallback": "Försök logga in med ett annat konto",
+                "oauthCreateAccount": "Försök logga in med ett annat konto",
+                "emailCreateAccount": "Försök logga in med ett annat konto",
+                "callback": "Försök logga in med ett annat konto",
+                "oauthAccountNotLinked": "För att bekräfta din identitet, logga in med samma konto som du använde tidigare",
+                "emailSignin": "E-postmeddelandet kunde inte skickas",
+                "emailVerify": "Vänligen verifiera din e-post, ett nytt e-postmeddelande har skickats",
+                "credentialsSignin": "Inloggningen misslyckades. Kontrollera att uppgifterna du angav är korrekta",
+                "sessionRequired": "Logga in för att komma åt denna sida"
+            }
+        },
+        "provider": {
+            "continue": "Fortsätt med {{provider}}"
+        }
+    },
+    "chat": {
+        "input": {
+            "placeholder": "Skriv ditt meddelande här...",
+            "actions": {
+                "send": "Skicka meddelande",
+                "stop": "Stoppa uppgift",
+                "attachFiles": "Bifoga filer"
+            }
+        },
+        "speech": {
+            "start": "Börja spela in",
+            "stop": "Sluta spela in",
+            "connecting": "Ansluter"
+        },
+        "fileUpload": {
+            "dragDrop": "Dra och släpp filer här",
+            "browse": "Bläddra bland filer",
+            "sizeLimit": "Gräns:",
+            "errors": {
+                "failed": "Uppladdning misslyckades",
+                "cancelled": "Avbröt uppladdning av"
+            }
+        },
+        "messages": {
+            "status": {
+                "using": "Använder",
+                "used": "Använde"
+            },
+            "actions": {
+                "copy": {
+                    "button": "Kopiera till urklipp",
+                    "success": "Kopierat!"
+                }
+            },
+            "feedback": {
+                "positive": "Hjälpsamt",
+                "negative": "Inte hjälpsamt",
+                "edit": "Redigera återkoppling",
+                "dialog": {
+                    "title": "Lägg till en kommentar",
+                    "submit": "Skicka återkoppling"
+                },
+                "status": {
+                    "updating": "Uppdaterar",
+                    "updated": "Återkoppling uppdaterad"
+                }
+            }
+        },
+        "history": {
+            "title": "Senaste inmatningar",
+            "empty": "Så tomt...",
+            "show": "Visa historik"
+        },
+        "settings": {
+            "title": "Inställningspanel"
+        },
+        "watermark": "Byggd med"
+    },
+    "threadHistory": {
+        "sidebar": {
+            "title": "Tidigare chattar",
+            "filters": {
+                "search": "Sök",
+                "placeholder": "Sök konversationer..."
+            },
+            "timeframes": {
+                "today": "Idag",
+                "yesterday": "Igår",
+                "previous7days": "Senaste 7 dagarna",
+                "previous30days": "Senaste 30 dagarna"
+            },
+            "empty": "Inga trådar hittades",
+            "actions": {
+                "close": "Stäng sidofältet",
+                "open": "Öppna sidofältet"
+            }
+        },
+        "thread": {
+            "untitled": "Namnlös konversation",
+            "menu": {
+                "rename": "Byt namn",
+                "delete": "Ta bort"
+            },
+            "actions": {
+                "delete": {
+                    "title": "Bekräfta borttagning",
+                    "description": "Detta kommer att ta bort tråden samt dess meddelanden och element. Denna åtgärd kan inte ångras",
+                    "success": "Chatt borttagen",
+                    "inProgress": "Tar bort chatt"
+                },
+                "rename": {
+                    "title": "Byt namn på tråd",
+                    "description": "Ange ett nytt namn för denna tråd",
+                    "form": {
+                        "name": {
+                            "label": "Namn",
+                            "placeholder": "Ange nytt namn"
+                        }
+                    },
+                    "success": "Trådens namn ändrat!",
+                    "inProgress": "Byter namn på tråd"
+                }
+            }
+        }
+    },
+    "navigation": {
+        "header": {
+            "chat": "Chatt",
+            "readme": "Läs mig",
+            "theme": {
+                "light": "Ljust tema",
+                "dark": "Mörkt tema",
+                "system": "Följ system"
+            }
+        },
+        "newChat": {
+            "button": "Ny chatt",
+            "dialog": {
+                "title": "Skapa ny chatt",
+                "description": "Detta kommer att rensa din nuvarande chatthistorik. Är du säker på att du vill fortsätta?",
+                "tooltip": "Ny chatt"
+            }
+        },
+        "user": {
+            "menu": {
+                "settings": "Inställningar",
+                "settingsKey": "S",
+                "apiKeys": "API-nycklar",
+                "logout": "Logga ut"
+            }
+        }
+    },
+    "apiKeys": {
+        "title": "Nödvändiga API-nycklar",
+        "description": "För att använda denna app krävs följande API-nycklar. Nycklarna lagras i din enhets lokala lagring.",
+        "success": {
+            "saved": "Sparades framgångsrikt"
+        }
+    },
+    "alerts": {
+        "info": "Information",
+        "note": "Notis",
+        "tip": "Tips",
+        "important": "Viktigt",
+        "warning": "Varning",
+        "caution": "Försiktighet",
+        "debug": "Felsökning",
+        "example": "Exempel",
+        "success": "Framgång",
+        "help": "Hjälp",
+        "idea": "Idé",
+        "pending": "Pågående",
+        "security": "Säkerhet",
+        "beta": "Beta",
+        "best-practice": "Bästa praxis"
+    }
+}

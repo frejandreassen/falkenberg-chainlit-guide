@@ -3,7 +3,7 @@ import chainlit as cl
 import json
 from openai import AsyncOpenAI
 from dotenv import load_dotenv
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Load environment variables
 load_dotenv()
@@ -67,6 +67,21 @@ available_functions = {
     "ask_gemini_about_pages": gemini_tools.ask_gemini_about_pages
 }
 
+# Process query to be more specific about dates
+def process_date_references(query):
+    # Get next weekend dates
+    today = datetime.now()
+    days_until_saturday = (5 - today.weekday()) % 7
+    next_saturday = today + timedelta(days=days_until_saturday)
+    next_sunday = next_saturday + timedelta(days=1)
+    next_weekend = f"{next_saturday.strftime('%Y-%m-%d')} to {next_sunday.strftime('%Y-%m-%d')}"
+    
+    # Check for weekend references and make them explicit
+    if any(term in query.lower() for term in ["helgen", "weekend", "helg", "veckoslut"]):
+        # Append weekend date information to the query
+        return f"{query} (referring to dates {next_weekend})"
+    return query
+
 @cl.on_chat_start
 async def start_chat():
     # Check if we have any events and pages data
@@ -75,8 +90,15 @@ async def start_chat():
     events_status = "active" if events_data else "unavailable"
     pages_status = "active" if pages_data else "unavailable"
     
-    # Get today's date
+    # Get today's date with weekday
     current_date = datetime.now().strftime("%A, %Y-%m-%d")
+    
+    # Get next weekend dates
+    today = datetime.now()
+    days_until_saturday = (5 - today.weekday()) % 7
+    next_saturday = today + timedelta(days=days_until_saturday)
+    next_sunday = next_saturday + timedelta(days=1)
+    next_weekend = f"{next_saturday.strftime('%Y-%m-%d')} to {next_sunday.strftime('%Y-%m-%d')}"
     
     # Set up the message history with system message
     cl.user_session.set(
@@ -93,6 +115,12 @@ Current data status:
 - Events data: {events_status}
 - Website data: {pages_status}
 - Today's date: {current_date}
+- This weekend refers to: {next_weekend}
+
+DATE HANDLING INSTRUCTIONS:
+- When a user asks about "helgen" or "this weekend", ALWAYS use the date range {next_weekend}
+- Format date references clearly in your tool queries
+- Be precise about date ranges when asking for event information
 
 When asked any question about local services, places, or recommendations in Falkenberg, ALWAYS use the ask_gemini_about_pages tool first before responding. This includes restaurants, shops, attractions, beaches, or any other local information.
 
@@ -184,6 +212,10 @@ async def main(message: cl.Message):
                     try:
                         # Parse arguments and call function
                         function_args = json.loads(tool_call["function"]["arguments"])
+                        
+                        # Process the query to be more explicit about dates
+                        if "query" in function_args:
+                            function_args["query"] = process_date_references(function_args["query"])
                         
                         # Add another dot for loading animation
                         await msg.stream_token(".")

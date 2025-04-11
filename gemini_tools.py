@@ -313,6 +313,8 @@ Prioritera relevans och var koncis men informativ."""
         
         # Create context and prompt
         context = reduced_events_json
+        print("Chat GPT query: ", query)
+        print("Current date: ", current_date)
         full_prompt = f"{system_prompt}\n\nFråga: {query}\n\nEventdata: {context}"
         
         # Count tokens in prompt

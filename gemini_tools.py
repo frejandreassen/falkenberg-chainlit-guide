@@ -267,6 +267,9 @@ class GeminiTools:
         # Log the query
         self._log("USER", f"Events query: {query}")
         
+        # Get current date
+        current_date = time.strftime("%A, %Y-%m-%d")
+        
         # Get and process events data
         events_data = self.get_events_data()
         if not events_data:
@@ -298,6 +301,8 @@ class GeminiTools:
         
         # Simplified system prompt
         system_prompt = """Du är en expert på evenemang i Falkenbergs kommun. Besvara frågan om evenemang baserat på den data som tillhandahålls.
+
+        Current date: {current_date}
 
 Format för svar:
 **Evenemang:**

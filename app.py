@@ -76,7 +76,7 @@ async def start_chat():
     pages_status = "active" if pages_data else "unavailable"
     
     # Get today's date
-    current_date = datetime.now().strftime("%Y-%m-%d")
+    current_date = datetime.now().strftime("%A, %Y-%m-%d")
     
     # Set up the message history with system message
     cl.user_session.set(

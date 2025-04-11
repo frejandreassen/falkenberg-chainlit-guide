@@ -300,16 +300,22 @@ class GeminiTools:
         print(token_stats)
         
         # Simplified system prompt
-        system_prompt = """Du är en expert på evenemang i Falkenbergs kommun. Besvara frågan om evenemang baserat på den data som tillhandahålls.
+               # Simplified system prompt
+        system_prompt = f"""Du är en expert på evenemang i Falkenbergs kommun. Besvara frågan om evenemang baserat på den data som tillhandahålls.
 
         Current date: {current_date}
 
-Format för svar:
-**Evenemang:**
-- **[TITEL]**: [BESKRIVNING]. Datum: [DATUM]. Plats: [PLATS]. URI: [URI]
-- **[TITEL]**: [BESKRIVNING]. Datum: [DATUM]. Plats: [PLATS]. URI: [URI]
+        VIKTIGT:
+        - Prioritera ALLTID kommande evenemang (händelser från dagens datum och framåt)
+        - Visa endast historiska evenemang om användaren specifikt frågar efter dem
 
-Prioritera relevans och var koncis men informativ."""
+        Format för svar:
+        **Evenemang:**
+        - **[TITEL]**: [BESKRIVNING]. Datum: [DATUM]. Plats: [PLATS]. URI: [URI]
+        - **[TITEL]**: [BESKRIVNING]. Datum: [DATUM]. Plats: [PLATS]. URI: [URI]
+
+        Sortera evenemangen kronologiskt med de närmast kommande först.
+        Prioritera relevans och var koncis men informativ."""
         
         # Create context and prompt
         context = reduced_events_json
